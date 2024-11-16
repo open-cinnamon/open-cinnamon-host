@@ -1,1 +1,3 @@
-[open-cinnamon 1.0.0]
+open-cinnamon 1.0.0 std : later
+open-cinnamon 1.0.0 debugx64 : later
+open-cinnamon 1.0.0 releasex64 : later
